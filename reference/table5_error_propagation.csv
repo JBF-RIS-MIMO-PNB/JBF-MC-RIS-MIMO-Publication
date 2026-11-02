@@ -1,0 +1,9 @@
+Metric,Mean_NMSE_dB
+Stage-1 product,-25.384
+Coupled-aligned H_RB,-17.382
+Coupled-aligned Z,-10.831
+A after Stage 2,-10.954
+Aligned H_UR,-20.229
+Full coupled-aligned H_eq,-15.431
+Oracle Stage-2 A,-26.707
+Oracle Stage-2 H_UR,-42.464
