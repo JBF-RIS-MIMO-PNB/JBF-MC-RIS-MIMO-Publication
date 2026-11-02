@@ -1,0 +1,10 @@
+# MATLAB autosaves and temporary diagnostic scripts
+*.asv
+*.autosave
+JBF_MC_Error_Propagation_tmp_seed_*.m
+.DS_Store
+
+# Regenerated local simulation outputs, not included in this source release
+/matlab/*_results.mat
+/matlab/*_report.txt
+/matlab/*.fig
